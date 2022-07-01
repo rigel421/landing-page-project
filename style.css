@@ -148,3 +148,40 @@ img {
     justify-content: center;
     color: grey;
 }
+
+
+
+
+.section-3 {
+    background-color: #E5E7EB;
+}
+
+.section-3-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding-top: 30px;
+}
+
+.textbox {
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    width: 700px;
+}
+
+
+.quote {
+    margin: 0;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: left;
+}
+
+.quoter {
+    margin: 0;
+    text-align: right;
+    font-weight: bold;}

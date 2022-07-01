@@ -185,3 +185,50 @@ img {
     margin: 0;
     text-align: right;
     font-weight: bold;}
+
+.section-4-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-top: 70px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.inner-box {
+    background-color: #3882F6;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 4px;
+    margin-bottom: 70px;
+    padding: 30px;
+}
+
+.inside-text {
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+    color: white;
+    text-align: left;
+
+}
+
+.text-4 {
+    margin: 0;
+}
+
+.subtext-4 {
+    margin: 0;
+    font-style: italic;
+    color: lightgray;
+}
+
+.sign-up-2 {
+    color: white;
+    background-color: #3882F6;
+    border-radius: 10px;
+    border-color: white;
+    border-width: 1px;
+    padding: 10px 30px;
+}

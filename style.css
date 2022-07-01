@@ -21,7 +21,7 @@
     color: #E5E7EB;
 }
 
-.section-1 {
+.section-1, .footer {
     display: flex;
     flex-direction: column;
     background-color: #1F2937;
@@ -231,4 +231,16 @@ img {
     border-color: white;
     border-width: 1px;
     padding: 10px 30px;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer-text {
+    margin: 0;
 }
